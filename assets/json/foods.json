@@ -1,0 +1,90 @@
+[
+    {
+        "id": 0,
+        "type": "pizza",
+        "name": "Alberoo Pizza",
+        "price": "999",
+        "image": "pizza-01.png",
+        "item": 0
+    },
+    {
+        "id": 1,
+        "type": "pizza",
+        "name": "Pepperoni Pizza",
+        "price": "499",
+        "image": "pizza-02.png",
+        "item": 0
+    },
+    {
+        "id": 2,
+        "type": "pizza",
+        "name": "Chicken Rush",
+        "price": "995",
+        "image": "pizza-03.png",
+        "item": 0
+    },
+    {
+        "id": 3,
+        "type": "salad",
+        "name": "Mixied Salad",
+        "price": "199",
+        "image": "salad-01.png",
+        "item": 0
+    },
+    {
+        "id": 4,
+        "type": "salad",
+        "name": "Cisar Rock",
+        "price": "229",
+        "image": "salad-02.png",
+        "item": 0
+    },
+    {
+        "id": 5,
+        "type": "salad",
+        "name": "Brooklyn Salad",
+        "price": "299",
+        "image": "salad-03.png",
+        "item": 0
+    },
+    {
+        "id": 6,
+        "type": "drink",
+        "name": "Diet Coca",
+        "price": "150",
+        "image": "drink-01.png",
+        "item": 0
+    },
+    {
+        "id": 7,
+        "type": "drink",
+        "name": "Jack Daniel's Coca",
+        "price": "169",
+        "image": "drink-02.png",
+        "item": 0
+    },
+    {
+        "id": 8,
+        "type": "drink",
+        "name": "Coca",
+        "price": "79",
+        "image": "drink-03.png",
+        "item": 0
+    },
+    {
+        "id": 9,
+        "type": "drink",
+        "name": "Soda Rush",
+        "price": "40",
+        "image": "drink-04.png",
+        "item": 0
+    },
+    {
+        "id": 10,
+        "type": "drink",
+        "name": "Beer",
+        "price": "249",
+        "image": "drink-05.png",
+        "item": 0
+    }
+]
